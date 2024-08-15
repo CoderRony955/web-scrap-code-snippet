@@ -1,0 +1,64 @@
+Semantically correct table with thead and tbody
+
+			Table selector automatically detects header and data rows.
+		
+
+
+
+#
+First Name
+Last Name
+Username
+
+
+
+
+1
+Mark
+Otto
+@mdo
+
+
+2
+Jacob
+Thornton
+@fat
+
+
+3
+Larry
+the Bird
+@twitter
+
+
+
+
+
+
+#
+First Name
+Last Name
+Username
+
+
+
+
+4
+Harry
+Potter
+@hp
+
+
+5
+John
+Snow
+@dunno
+
+
+6
+Tim
+Bean
+@timbean
+
+
+

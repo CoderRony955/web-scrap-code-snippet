@@ -1,0 +1,1 @@
+The code snippets provided in this repository are for educational purposes only. The author is not responsible for any misuse of the code. Users are advised to ensure that their web scraping activities comply with all applicable laws and website terms of service.
